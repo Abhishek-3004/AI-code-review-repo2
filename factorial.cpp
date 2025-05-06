@@ -6,7 +6,7 @@ int main()
     int n;
     cout << "Enter any number to find its factorial." << endl;
     cin >> n;
-    cout << "Factorial of entered number is " << factorial(n);
+    cout << "Factorial of Entered number is " << factorial(n);
 
     return 0;
 }
